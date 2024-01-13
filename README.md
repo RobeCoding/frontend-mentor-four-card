@@ -24,8 +24,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [FrontendMentor Solution Page]([https://your-solution-url.com](https://www.frontendmentor.io/solutions/four-card-section-htmlcss-ue-5voip9t))
-- Live Site URL: [GitHub Page Live]([https://your-live-site-url.com](https://robecoding.github.io/frontend-mentor-four-card/))
+- Solution URL: [FrontendMentor Solution Page](https://www.frontendmentor.io/solutions/four-card-section-htmlcss-ue-5voip9t]
+- Live Site URL: [GitHub Page Live](https://robecoding.github.io/frontend-mentor-four-card/)
 
 ## My process
 
